@@ -1,0 +1,40 @@
+test/configCases/html/minimize-inline-css-chunks/first.css
+  s_30982a48614034::t_edf2b86b91d8a5 1
+test/unitCases/html/minify-inline-chunks.unittest.js
+  s_30982a48614034::t_b997635c63beac 19-21,30
+  s_30982a48614034::t_a56012bc3d4f2b 1-18,22-29,31-36
+test/configCases/html/minimize-inline-css-chunks/test.js
+  s_30982a48614034::t_edf2b86b91d8a5 1-14
+test/configCases/html/minimize-inline-css-chunks/test.config.js
+  s_30982a48614034::t_edf2b86b91d8a5 1-7
+test/configCases/html/minimize-inline-css-chunks/page.html
+  s_30982a48614034::t_edf2b86b91d8a5 1-10
+lib/html/htmlMinify.js
+  s_30982a48614034::t_30a79f44ed92e4 129-131,158
+  s_30982a48614034::t_324097d0bf4d42 155
+.changeset/066-printer-fixes.md
+  s_30982a48614034::t_30a79f44ed92e4 5
+test/configCases/html/minimize-inline-css-chunks/webpack.config.js
+  s_30982a48614034::t_8fc1580d92b9e1 16,25-26
+  s_30982a48614034::t_edf2b86b91d8a5 1-15,17-24,27-50
+test/configCases/html/minimize-inline-css-chunks/script.js
+  s_30982a48614034::t_edf2b86b91d8a5 1
+test/configCases/html/minimize-inline-css-chunks/second.css
+  s_30982a48614034::t_edf2b86b91d8a5 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "c1bc98fdf3befc3b37aeb639127060d5907cdaa2",
+  "prompts": {},
+  "sessions": {
+    "s_30982a48614034": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18583-e7a9-7632-926c-1e55ba4ebce5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "亚亥yahai <shenyuyou@xiaohongshu.com>"
+    }
+  }
+}
