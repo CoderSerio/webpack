@@ -1,0 +1,22 @@
+.changeset/066-printer-fixes.md
+  s_30982a48614034::t_30a79f44ed92e4 5
+lib/html/htmlMinify.js
+  s_30982a48614034::t_30a79f44ed92e4 129-131,158
+  s_30982a48614034::t_324097d0bf4d42 155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "5ef40792de5a99065719410b12c8fae56093312b",
+  "prompts": {},
+  "sessions": {
+    "s_30982a48614034": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18583-e7a9-7632-926c-1e55ba4ebce5",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "亚亥yahai <shenyuyou@xiaohongshu.com>"
+    }
+  }
+}
